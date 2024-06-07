@@ -1,8 +1,12 @@
 # System Design
 
-Hey, welcome to the course. I hope this course provides a great learning experience.
+Hello, and welcome to the course. I hope you find this course to be a valuable learning resource.
 
-_This course is also available on my [website](https://karanpratapsingh.com/courses/system-design) and as an ebook on [leanpub](https://leanpub.com/systemdesign). Please leave a ⭐ as motivation if this was helpful!_
+I want to make changes to this course and hope this updated handbook is helpful to you all new learners and refreshers. Please drop a ⭐ if this course was helpful!
+
+## Credits
+
+This course is based on the original repository by [Karan Pratap Singh](https://github.com/karanpratapsingh/system-design). Special thanks for the invaluable resources and foundational content provided.
 
 # Table of contents
 
